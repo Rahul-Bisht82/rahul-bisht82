@@ -4,7 +4,7 @@
 
 
 -----------------
-<h3 align="center">A passionate frontend developer. I am very much intrested in coding & designing, also love to learn new technology.I am always motivated towards learning new things. I am a team player and give 100% towards my work. My dream is to become a successful <br><----------\ FULL STACK DEVELOPER /---------->.</h3>
+<h3 align="center">A passionate frontend developer. I am very much intrested in coding & designing, also love to learn new technology.I am always motivated towards learning new things. I am a team player and give 100% towards my work. My dream is to become a successful <br><--\ FULL STACK DEVELOPER /--></h3>
 
 <a href="https://ibb.co/0XPYFpj"><img src="https://i.ibb.co/TTzPbDB/rahullll.jpg" width="100%" alt="rahullll" border="0"></a><br /><a target='_blank' href='https://nonprofitlight.com/fl/pensacola/abeka-academy-inc'>abeka academy</a><br />
 
