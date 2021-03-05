@@ -2,6 +2,8 @@
 -----------------
 [![website](https://img.shields.io/badge/PortfolioWebsite-rahulbisht.com-important?style=for-the-badge&logo=google-chrome)](https://rahul-bisht.netlify.app/)
 
+[<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/rahul-bisht82) 
+[<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='40'>](https://www.instagram.com/rahulb4749/)  
 
 -----------------
 <h3 align="center">A passionate frontend developer. I am very much intrested in coding & designing, also love to learn new technology.I am always motivated towards learning new things. I am a team player and give 100% towards my work. My dream is to become a successful <br><--\ FULL STACK DEVELOPER /--></h3>
