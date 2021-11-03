@@ -1,6 +1,6 @@
 ### Hi 👋 there, I'm RAHUL BISHT.
 -----------------
-[![website](https://img.shields.io/badge/PortfolioWebsite-rahulbisht.com-important?style=for-the-badge&logo=google-chrome)](https://rahul-bisht.netlify.app/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-rahulbisht.com-important?style=for-the-badge&logo=google-chrome)](https://rahul-bisht.com/)
 
 [<img src='https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/rahul-bisht82) 
 [<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='40'>](https://www.instagram.com/rahulb4749/)  
